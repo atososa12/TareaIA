@@ -1,6 +1,4 @@
-# Clínica Dental Sonrisa Uruguaya
 
-Sitio web desarrollado como parte de la actividad evaluable de Integración de IA.
 
 ## Descripción
 
@@ -36,7 +34,11 @@ El Centro de Ayuda incorpora un asistente virtual desarrollado y configurado med
 ├── ayuda.html
 ├── css/
 │   └── estilos.css
+├── img/
+│   └── imagenDental.jpg
 └── README.md
 
-el código fuente se encuentra disponible en GitHub.
+el código fuente se encuentra disponible en GitHub. -- adjunto link https://atososa12.github.io/TareaIA/
+
+Se encuntra desplegado en Vercel / https://tarea-ia-git-main-atososa12.vercel.app/
 
